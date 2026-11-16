@@ -4,7 +4,7 @@ Live data for the **Edmonton Ethnocultural Grants Finder** at
 https://www.churchillstrategy.ca/edmonton-grants-finder (unlisted page).
 
 The Squarespace code block on that page loads
-`https://raw.githubusercontent.com/churchill-strategy/grants.json/main/grants.json`
+`https://raw.githubusercontent.com/churchill-strategy/grants/main/grants.json`
 every time someone opens it. If the file can't be loaded, the page falls back to the copy built into the code block. Statuses and countdowns ("Closes in 7 days") are worked out in the visitor's browser from today's date, so they're always current.
 
 A weekly scheduled task re-checks every program and searches for new ones. It updates this file only after `python3 validate.py` passes.
