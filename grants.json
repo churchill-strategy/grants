@@ -1,0 +1,1642 @@
+{
+ "verified": "2026-11-16",
+ "count": 78,
+ "programs": [
+  {
+   "n": "Multiculturalism and Anti-Racism Program: Events",
+   "f": "Canadian Heritage",
+   "lv": "Federal",
+   "r": "Canada",
+   "fo": [
+    "Events & festivals",
+    "Anti-racism"
+   ],
+   "max": null,
+   "amt": "Not stated (median award ~$20,000)",
+   "w": [
+    [
+     "2027-01-13",
+     "2027-02-24"
+    ],
+    [
+     "2027-05-12",
+     "2027-06-22"
+    ]
+   ],
+   "next": "Following intake for Dec 2027–Mar 2028 events",
+   "d": "Community events that promote intercultural or interfaith understanding, celebrate a community's history and identity, or address racism. Must be open to the public. Feb 24 intake covers events Aug 1–Nov 30, 2027; Jun 22 intake covers Dec 1, 2027–Mar 31, 2028.",
+   "el": "Non-profits, unincorporated groups, Indigenous organizations and governments, municipalities ≤10,000 people",
+   "warn": "The online portal for this component was unavailable when checked: request forms from your Canadian Heritage regional office and apply by email.",
+   "u": "https://www.canada.ca/en/canadian-heritage/services/funding/multiculturalism-anti-racism/events.html"
+  },
+  {
+   "n": "Multiculturalism and Anti-Racism Program: Projects (Anti-Racism Call)",
+   "f": "Canadian Heritage",
+   "lv": "Federal",
+   "r": "Canada",
+   "fo": [
+    "Projects",
+    "Anti-racism"
+   ],
+   "max": null,
+   "amt": "Not stated (median award ~$120,100)",
+   "w": [
+    [
+     "2026-10-08",
+     "2026-11-12"
+    ]
+   ],
+   "next": "Watch for the next call; Anti-Hate Call also closed",
+   "d": "Multi-month community projects that tackle systemic racism and discrimination, including hate. Larger, multi-year style funding than the Events component.",
+   "el": "Non-profits, non-federal public institutions, Indigenous organizations",
+   "u": "https://www.canada.ca/en/canadian-heritage/services/funding/multiculturalism-anti-racism/projects.html"
+  },
+  {
+   "n": "Celebrate Canada (incl. Canadian Multiculturalism Day, June 27)",
+   "f": "Canadian Heritage",
+   "lv": "Federal",
+   "r": "Canada",
+   "fo": [
+    "Events & festivals"
+   ],
+   "max": null,
+   "amt": "Varies (median award ~$4,840)",
+   "w": [
+    [
+     "2026-10-01",
+     "2026-11-23"
+    ]
+   ],
+   "next": "",
+   "d": "Funds community celebrations on National Indigenous Peoples Day (Jun 21), Saint-Jean-Baptiste Day (Jun 24), Canadian Multiculturalism Day (Jun 27) and Canada Day (Jul 1), 2027. Canada's 160th anniversary is a 2027 priority.",
+   "el": "Non-profits, educational institutions, Indigenous organizations, businesses running non-commercial projects",
+   "u": "https://www.canada.ca/en/canadian-heritage/services/funding/celebrate-canada.html"
+  },
+  {
+   "n": "Building Communities Through Arts & Heritage: Local Festivals",
+   "f": "Canadian Heritage",
+   "lv": "Federal",
+   "r": "Canada",
+   "fo": [
+    "Events & festivals",
+    "Arts & heritage"
+   ],
+   "max": 200000,
+   "amt": "Up to $200,000 (up to 100% of eligible costs; median ~$16,200)",
+   "w": [
+    [
+     null,
+     "2027-01-31"
+    ],
+    [
+     null,
+     "2027-04-30"
+    ],
+    [
+     null,
+     "2027-10-15"
+    ]
+   ],
+   "next": "",
+   "d": "Recurring local festivals that present local artists, artisans, heritage performers or cultural carriers; a strong fit for annual cultural festivals. Each deadline covers festivals starting in a later window; check the guidelines for which dates apply.",
+   "el": "Local non-profits; local band councils and Indigenous groups",
+   "u": "https://www.canada.ca/en/canadian-heritage/services/funding/building-communities/festivals.html"
+  },
+  {
+   "n": "Building Communities Through Arts & Heritage: Community Anniversaries",
+   "f": "Canadian Heritage",
+   "lv": "Federal",
+   "r": "Canada",
+   "fo": [
+    "Events & festivals",
+    "Arts & heritage"
+   ],
+   "max": 200000,
+   "amt": "Up to $200,000 (incl. up to $25,000 for commemorative items)",
+   "w": [
+    [
+     null,
+     "2027-05-31"
+    ]
+   ],
+   "next": "",
+   "d": "One-time events marking a 100th anniversary or more (in 25-year increments) of a significant local historical event or personality. May 31 deadline covers next calendar year's events.",
+   "el": "Local non-profits, band councils, Indigenous groups",
+   "u": "https://www.canada.ca/en/canadian-heritage/services/funding/building-communities/anniversaries.html"
+  },
+  {
+   "n": "Building Communities Through Arts & Heritage: Legacy Fund",
+   "f": "Canadian Heritage",
+   "lv": "Federal",
+   "r": "Canada",
+   "fo": [
+    "Capital",
+    "Arts & heritage"
+   ],
+   "max": 500000,
+   "amt": "Up to 50% of costs, max $500,000",
+   "w": [],
+   "next": "Closed for 2026–27; update expected; future projects must start on/after Apr 1, 2027",
+   "d": "Capital projects that restore or renovate a community building or outdoor space to mark a 100th+ anniversary.",
+   "el": "Local non-profits, municipalities, Indigenous groups",
+   "u": "https://www.canada.ca/en/canadian-heritage/services/funding/building-communities.html"
+  },
+  {
+   "n": "Canada Arts Presentation Fund: Programming",
+   "f": "Canadian Heritage",
+   "lv": "Federal",
+   "r": "Canada",
+   "fo": [
+    "Events & festivals",
+    "Arts & heritage"
+   ],
+   "max": 500000,
+   "amt": "Up to 25% of costs; $100,000 cap (grants) or up to $500,000 for festivals",
+   "w": [
+    [
+     null,
+     "2027-04-01"
+    ],
+    [
+     null,
+     "2027-10-15"
+    ]
+   ],
+   "next": "",
+   "d": "Professional arts festivals and performing arts series. Presenters must have operated professionally for a year; festivals need 3+ consecutive days, series 3+ distinct shows.",
+   "el": "Professional non-profit arts presenters, Indigenous presenters",
+   "u": "https://www.canada.ca/en/canadian-heritage/services/funding/arts-presentation-fund.html"
+  },
+  {
+   "n": "Canada Cultural Spaces Fund",
+   "f": "Canadian Heritage",
+   "lv": "Federal",
+   "r": "Canada",
+   "fo": [
+    "Capital",
+    "Arts & heritage"
+   ],
+   "max": null,
+   "amt": "Up to 50% of eligible costs",
+   "w": [
+    [
+     "rolling",
+     "2028-03-31"
+    ]
+   ],
+   "next": "",
+   "d": "Renovation, specialized equipment and space purchases for arts and heritage spaces (e.g. a community cultural centre). New construction is no longer accepted except in exceptional cases. Rolling intake while funds last.",
+   "el": "Non-profit arts/heritage organizations active 2+ years; provincial, municipal and Indigenous governments",
+   "u": "https://www.canada.ca/en/canadian-heritage/services/funding/cultural-spaces-fund.html"
+  },
+  {
+   "n": "National Anti-Racism Fund: Events & Youth Initiatives",
+   "f": "Canadian Race Relations Foundation",
+   "lv": "Federal",
+   "r": "Canada",
+   "fo": [
+    "Events & festivals",
+    "Youth",
+    "Anti-racism"
+   ],
+   "max": null,
+   "amt": "Varies (~$1.2M to 130 groups in 2025)",
+   "w": [
+    [
+     "2026-06-08",
+     "2026-07-13"
+    ]
+   ],
+   "next": "Next intake expected around June 2027",
+   "d": "Anti-racism events and youth initiatives held Dec 1, 2026–Nov 30, 2027. Decisions for the 2026 round were due mid-October.",
+   "el": "Charities, non-profits, Indigenous organizations, public institutions (schools, municipalities)",
+   "u": "https://crrf-fcrr.ca/narf-events-youth-grants/"
+  },
+  {
+   "n": "National Anti-Racism Fund: Projects",
+   "f": "Canadian Race Relations Foundation",
+   "lv": "Federal",
+   "r": "Canada",
+   "fo": [
+    "Projects",
+    "Anti-racism"
+   ],
+   "max": 125000,
+   "amt": "$25,000–$125,000",
+   "w": [
+    [
+     "2026-07-15",
+     "2026-09-02"
+    ]
+   ],
+   "next": "Invited full applications due Dec 2026; next EOI expected summer 2027",
+   "d": "Projects running Apr 1, 2027–Mar 31, 2028 that address systemic racism, public awareness, research and education, or intercultural community-building. Expression of Interest stage closed; shortlisted groups are invited to a full application.",
+   "el": "Registered charities, non-profits, First Nations, Inuit and Métis organizations",
+   "u": "https://crrf-fcrr.ca/2026/07/applications-open-2026-2027-narf-projects/"
+  },
+  {
+   "n": "Canada Summer Jobs 2027",
+   "f": "Employment and Social Development Canada",
+   "lv": "Federal",
+   "r": "Canada",
+   "fo": [
+    "Youth",
+    "Staffing"
+   ],
+   "max": null,
+   "amt": "Non-profits: up to 100% of minimum wage + mandatory employment costs",
+   "w": [
+    [
+     "2026-10-27",
+     "2026-12-03"
+    ]
+   ],
+   "next": "",
+   "d": "Wage subsidy to hire youth aged 15–30 for summer 2027 jobs (Apr 19–Aug 28, 2027); useful for festival, camp and community program staff. Closes 11:59 p.m. Pacific.",
+   "el": "Non-profits, public sector, small businesses (≤50 FTE)",
+   "u": "https://www.canada.ca/en/employment-social-development/services/funding/canada-summer-jobs.html"
+  },
+  {
+   "n": "New Horizons for Seniors Program: Community-based",
+   "f": "Employment and Social Development Canada",
+   "lv": "Federal",
+   "r": "Canada",
+   "fo": [
+    "Seniors",
+    "Projects"
+   ],
+   "max": 50000,
+   "amt": "Up to $50,000",
+   "w": [
+    [
+     "2026-06-02",
+     "2026-07-14"
+    ]
+   ],
+   "next": "Next call for proposals expected spring 2027",
+   "d": "Projects led by or for seniors: social inclusion, intergenerational and cultural programming, volunteering, elder abuse awareness, small capital. Requires a CRA business number.",
+   "el": "Non-profits, municipalities, Indigenous organizations, coalitions",
+   "u": "https://www.canada.ca/en/employment-social-development/services/funding/new-horizons-seniors-community-based.html"
+  },
+  {
+   "n": "Alberta Ethnocultural Grant",
+   "f": "Government of Alberta",
+   "lv": "Provincial",
+   "r": "AB",
+   "fo": [
+    "Projects",
+    "Events & festivals"
+   ],
+   "max": 50000,
+   "amt": "Stream 1: up to $50,000 · Stream 2: $15,000 (multi-day) / $8,000 (single-day)",
+   "w": [
+    [
+     "2026-10-01",
+     "2026-10-30"
+    ]
+   ],
+   "next": "Notifications by Mar 31, 2027; next intake expected fall 2027",
+   "d": "Multicultural and intercultural initiatives that build welcoming communities, plus Indigenous celebrations of culture and heritage. Not for housing, jobs or healthcare.",
+   "el": "Alberta non-profits incl. ethnocultural, multicultural and faith-based organizations",
+   "u": "https://www.alberta.ca/ethnocultural-grant"
+  },
+  {
+   "n": "Alberta Anti-Racism Grant",
+   "f": "Government of Alberta",
+   "lv": "Provincial",
+   "r": "AB",
+   "fo": [
+    "Anti-racism",
+    "Projects"
+   ],
+   "max": 10000,
+   "amt": "Up to $5,000 (awareness) or $10,000",
+   "w": [
+    [
+     "2026-10-01",
+     "2026-10-30"
+    ]
+   ],
+   "next": "Next intake expected fall 2027",
+   "d": "Public education on racism and initiatives that build organizations' capacity to address systemic racism.",
+   "el": "Alberta community organizations",
+   "u": "https://www.alberta.ca/anti-racism-grant"
+  },
+  {
+   "n": "Alberta Community Initiatives Program (CIP): Project Grant",
+   "f": "Government of Alberta",
+   "lv": "Provincial",
+   "r": "AB",
+   "fo": [
+    "Projects",
+    "Events & festivals"
+   ],
+   "max": 75000,
+   "amt": "Up to $75,000",
+   "w": [
+    [
+     null,
+     "2027-02-15"
+    ],
+    [
+     null,
+     "2027-08-15"
+    ]
+   ],
+   "next": "",
+   "d": "New community-driven programs, initiatives and events, including cultural festivals and celebrations. Apply through the GATE Front Office portal (needs a registered legal signing authority).",
+   "el": "Alberta-based non-profits",
+   "u": "https://www.alberta.ca/cip-project-grant"
+  },
+  {
+   "n": "Alberta CIP: Organizational Development & Collaboration",
+   "f": "Government of Alberta",
+   "lv": "Provincial",
+   "r": "AB",
+   "fo": [
+    "Capacity building"
+   ],
+   "max": 100000,
+   "amt": "Up to $50,000 (single org) / $100,000 over 2 yrs (collaboratives)",
+   "w": [
+    [
+     null,
+     "2027-04-15"
+    ],
+    [
+     null,
+     "2027-10-15"
+    ]
+   ],
+   "next": "",
+   "d": "Strategic planning, governance, staff/volunteer development and collaborations between non-profits.",
+   "el": "Alberta-based non-profits and collaboratives",
+   "u": "https://www.alberta.ca/cip-organizational-development-and-collaboration-grant"
+  },
+  {
+   "n": "B.C. Inclusive Communities Grants",
+   "f": "Government of British Columbia",
+   "lv": "Provincial",
+   "r": "BC",
+   "fo": [
+    "Projects",
+    "Anti-racism"
+   ],
+   "max": 5000,
+   "amt": "Up to $5,000",
+   "w": [
+    [
+     "2026-09-15",
+     "2026-10-19"
+    ]
+   ],
+   "next": "Next intake expected fall 2027",
+   "d": "Replaces the former B.C. Multiculturalism and Anti-Racism Grants. Urban and rural/remote streams covering intercultural exchange, racial equity education and community resilience. Projects run Apr 1, 2027–Mar 31, 2028.",
+   "el": "B.C. non-profits serving racialized, Indigenous or racialized faith communities; budget under $1M; small groups prioritized",
+   "u": "https://www2.gov.bc.ca/gov/content/governments/multiculturalism-anti-racism/multiculturalism/bc-icg"
+  },
+  {
+   "n": "B.C. Youth Racial Equity Micro-Grants",
+   "f": "Government of British Columbia",
+   "lv": "Provincial",
+   "r": "BC",
+   "fo": [
+    "Youth",
+    "Anti-racism"
+   ],
+   "max": 1000,
+   "amt": "Up to $1,000",
+   "w": [
+    [
+     "2026-09-29",
+     "2026-10-30"
+    ]
+   ],
+   "next": "Notifications Dec 15, 2026",
+   "d": "Youth-led racial equity projects completed within 3–6 months (by May 31, 2027). Applicants under 18 need a consent letter.",
+   "el": "Youth with student ID and an institutional sponsor",
+   "u": "https://www2.gov.bc.ca/gov/content/governments/multiculturalism-anti-racism/anti-racism/youth-racial-equity-micro-grants"
+  },
+  {
+   "n": "Ethnocultural Community Support Program (ECSP)",
+   "f": "Government of Manitoba",
+   "lv": "Provincial",
+   "r": "MB",
+   "fo": [
+    "Projects",
+    "Events & festivals"
+   ],
+   "max": 25000,
+   "amt": "Up to ~$25,000",
+   "w": [
+    [
+     null,
+     "2027-03-31"
+    ]
+   ],
+   "next": "",
+   "d": "Programming and special initiatives that share ethnocultural practices, traditions, languages and customs. One intake per year (March 31). No operating funding; Folklorama costs not eligible.",
+   "el": "Manitoba ethnocultural non-profits incorporated 1+ year, activities open to all Manitobans",
+   "u": "https://manitoba.ca/chc/grants/arts_culture/ecsp.html"
+  },
+  {
+   "n": "Multicultural Initiatives Fund: Project (Small & Major)",
+   "f": "SaskCulture",
+   "lv": "Provincial",
+   "r": "SK",
+   "fo": [
+    "Projects",
+    "Events & festivals",
+    "Anti-racism"
+   ],
+   "max": 15000,
+   "amt": "Small: up to $5,000 · Major: up to $15,000",
+   "w": [
+    [
+     null,
+     "2026-10-13"
+    ]
+   ],
+   "next": "Next deadline expected spring 2027 (previous cycle: Apr 1)",
+   "d": "Cultural continuity, celebration of diversity, anti-oppression, intercultural connections, and Truth and Reconciliation projects in Saskatchewan.",
+   "el": "Saskatchewan non-profits registered 1+ year with an ethnocultural, multicultural, First Nations or Métis focus",
+   "u": "https://www.saskculture.ca/news/2026-08-12-multicultural-initiatives-fund-project-open-for-applications"
+  },
+  {
+   "n": "Ontario Trillium Foundation: Seed Grant",
+   "f": "Ontario Trillium Foundation",
+   "lv": "Provincial",
+   "r": "ON",
+   "fo": [
+    "Projects",
+    "Capacity building"
+   ],
+   "max": 100000,
+   "amt": "$10,000–$100,000",
+   "w": [
+    [
+     "2026-07-22",
+     "2026-08-19"
+    ]
+   ],
+   "next": "Next intake expected summer 2027",
+   "d": "Pilot new programs or build capacity to plan future programs and services.",
+   "el": "Ontario non-profits, municipalities, First Nations",
+   "u": "https://otf.ca"
+  },
+  {
+   "n": "Ontario Trillium Foundation: Grow Grant",
+   "f": "Ontario Trillium Foundation",
+   "lv": "Provincial",
+   "r": "ON",
+   "fo": [
+    "Projects"
+   ],
+   "max": 600000,
+   "amt": "$50,000–$200,000/yr for 2–3 years",
+   "w": [
+    [
+     "2026-10-07",
+     "2026-11-04"
+    ]
+   ],
+   "next": "Next intake expected fall 2027",
+   "d": "Scale up a proven program or service. Highly competitive (~8% funded).",
+   "el": "Ontario non-profits, municipalities, First Nations",
+   "u": "https://otf.ca"
+  },
+  {
+   "n": "Ontario Trillium Foundation: Capital Grant",
+   "f": "Ontario Trillium Foundation",
+   "lv": "Provincial",
+   "r": "ON",
+   "fo": [
+    "Capital"
+   ],
+   "max": 200000,
+   "amt": "$10,000–$200,000",
+   "w": [],
+   "next": "Expected Feb–Mar 2027 (2026 window: Feb 4–Mar 4)",
+   "d": "Repairs, renovations, equipment and accessibility upgrades for community spaces.",
+   "el": "Ontario non-profits, municipalities, First Nations",
+   "u": "https://otf.ca"
+  },
+  {
+   "n": "Ontario Arts Council: Multi and Inter-Arts Projects",
+   "f": "Ontario Arts Council",
+   "lv": "Provincial",
+   "r": "ON",
+   "fo": [
+    "Arts & heritage"
+   ],
+   "max": 20000,
+   "amt": "Up to ~$20,000 by category",
+   "w": [],
+   "next": "Usual deadlines: mid-March and mid-September (2026: Mar 12, Sep 17)",
+   "d": "Creation, production and presentation of multi-disciplinary work by professional artists, collectives and organizations; suits cultural arts groups working across music, dance and visual art.",
+   "el": "Professional Ontario artists, collectives, non-profits",
+   "u": "https://www.arts.on.ca/grants/multi-and-inter-arts-projects"
+  },
+  {
+   "n": "Programme d'appui aux collectivités (PAC)",
+   "f": "Québec; MIFI",
+   "lv": "Provincial",
+   "r": "QC",
+   "fo": [
+    "Projects",
+    "Anti-racism"
+   ],
+   "max": null,
+   "amt": "Varies",
+   "w": [],
+   "next": "Calls posted on a set calendar for municipal (volet 1) and non-profit (volet 2) applicants; check the program page",
+   "d": "Intercultural relations, anti-racism and full participation of immigrants and minorities, in French. Many MRCs also re-grant PAC money through local intercultural calls.",
+   "el": "Québec municipal bodies (volet 1); non-profits (volet 2)",
+   "u": "https://www.quebec.ca/immigration/aide-organismes-integration-immigration/programme-appui-collectivites"
+  },
+  {
+   "n": "Building Inclusive Communities Fund (formerly DCCF/CCIF)",
+   "f": "Nova Scotia; Communities, Culture, Tourism & Heritage",
+   "lv": "Provincial",
+   "r": "NS",
+   "fo": [
+    "Projects",
+    "Events & festivals"
+   ],
+   "max": 10000,
+   "amt": "Tier 1: up to $5,000 · Tier 2: $5,001–$10,000",
+   "w": [
+    [
+     null,
+     "2027-05-15"
+    ],
+    [
+     null,
+     "2027-10-15"
+    ]
+   ],
+   "next": "",
+   "d": "Projects and events that share and celebrate cultural identities, raise awareness of diversity and equity, and build capacity of organizations serving equity-deserving communities. Applicant contribution required (15–25%).",
+   "el": "N.S. non-profits, co-ops, charities, Mi'kmaw communities, social enterprises",
+   "u": "https://cch.novascotia.ca/sites/default/files/inline/documents/bicf-guidelines.pdf"
+  },
+  {
+   "n": "Newfoundland and Labrador Multiculturalism Grant Program",
+   "f": "Government of Newfoundland and Labrador",
+   "lv": "Provincial",
+   "r": "NL",
+   "fo": [
+    "Events & festivals",
+    "Anti-racism"
+   ],
+   "max": 1500,
+   "amt": "Up to $1,500 (per 2025–26 guidelines)",
+   "w": [
+    [
+     "2026-11-02",
+     "2026-12-02"
+    ]
+   ],
+   "next": "",
+   "d": "Events and activities that celebrate cultural diversity and support newcomer retention; priority for anti-racism and EDI projects. Apply through LaMPSS by 4:30 p.m. NST. K-12 schools use a separate form.",
+   "el": "N.L. organizations, communities and schools",
+   "u": "https://www.gov.nl.ca/immigration/newfoundland-and-labrador-multiculturalism-grant-program-nlmgp/"
+  },
+  {
+   "n": "Cultural Hotspot: Signature Projects",
+   "f": "City of Toronto",
+   "lv": "Municipal",
+   "r": "ON",
+   "fo": [
+    "Arts & heritage",
+    "Events & festivals"
+   ],
+   "max": 22000,
+   "amt": "Up to $22,000",
+   "w": [
+    [
+     null,
+     "2027-01-11"
+    ]
+   ],
+   "next": "",
+   "d": "Community-engaged arts and culture projects in Toronto's outside-the-core neighbourhoods, delivered June–October 2027. Deadline 5 p.m.",
+   "el": "Artists, collectives and non-profits (see guidelines)",
+   "u": "https://www.toronto.ca/explore-enjoy/festivals-events/cultural-hotspot/cultural-hotspot-funding-opportunities"
+  },
+  {
+   "n": "Cultural Festivals Funding Program",
+   "f": "City of Toronto",
+   "lv": "Municipal",
+   "r": "ON",
+   "fo": [
+    "Events & festivals",
+    "Operating"
+   ],
+   "max": 650000,
+   "amt": "Up to 35% of costs (projects, annual & multi-year operating)",
+   "w": [],
+   "next": "2027–28 cycle expected to open ~December 2026 (last deadline: Feb 13, 2026)",
+   "d": "Recurring Toronto cultural festivals that build community and serve residents across the city.",
+   "el": "Toronto non-profit festival organizers",
+   "u": "https://www.toronto.ca/services-payments/grants-incentives-rebates/arts-culture-grants/cultural-festivals-funding-program/"
+  },
+  {
+   "n": "Edmonton Immigrant and Refugee Community Grant",
+   "f": "City of Edmonton",
+   "c": "Edmonton",
+   "lv": "Municipal",
+   "r": "AB",
+   "fo": [
+    "Capacity building",
+    "Projects"
+   ],
+   "max": 20000,
+   "amt": "Seed up to $4,000 · Impact $4,001–$7,000 · Special Projects $7,001–$20,000",
+   "w": [],
+   "next": "Next intake expected spring 2027 (2026 deadline: Apr 7)",
+   "d": "Grassroots ethnocultural collectives addressing settlement challenges: community connections, mental health, trauma, education gaps, civic orientation. Festivals and stand-alone events not eligible.",
+   "el": "Ethnocultural collectives/non-profits; grassroots groups via a fiscal agent",
+   "u": "https://www.edmonton.ca/programs_services/funding_grants/grant-emerging-immigrant-refugee-communities"
+  },
+  {
+   "n": "Neighbourhood Connections Grant",
+   "f": "City of Edmonton",
+   "c": "Edmonton",
+   "lv": "Municipal",
+   "r": "AB",
+   "fo": [
+    "Events & festivals"
+   ],
+   "max": 2500,
+   "amt": "$500–$2,500",
+   "w": [
+    [
+     "2027-03-01",
+     "2027-04-01"
+    ]
+   ],
+   "next": "Fall batch deadline Oct 1 for Jan–Jun events",
+   "d": "Community events and activities that deepen multicultural connections, celebrate Indigenous culture and increase inclusion.",
+   "el": "Registered organizations, community leagues; ad hoc groups",
+   "u": "https://www.edmonton.ca/programs_services/funding_grants/neighbourhood-connections-grant"
+  },
+  {
+   "n": "Edmonton Anti-Racism Grants",
+   "f": "City of Edmonton",
+   "c": "Edmonton",
+   "lv": "Municipal",
+   "r": "AB",
+   "fo": [
+    "Anti-racism",
+    "Projects"
+   ],
+   "max": null,
+   "amt": "Varies",
+   "w": [
+    [
+     "2026-08-25",
+     "2026-09-25"
+    ]
+   ],
+   "next": "Next intake expected late summer 2027",
+   "d": "Community projects advancing anti-racism; projects completed within a year of agreement.",
+   "el": "Edmonton non-profits and groups (register in the grant portal first)",
+   "u": "https://www.edmonton.ca/programs_services/funding_grants/anti-racism-grants-program"
+  },
+  {
+   "n": "Cultural Operating Funding: Spaces",
+   "f": "City of Vancouver",
+   "lv": "Municipal",
+   "r": "BC",
+   "fo": [
+    "Capital",
+    "Arts & heritage"
+   ],
+   "max": 40000,
+   "amt": "Up to $40,000",
+   "w": [
+    [
+     null,
+     "2026-12-10"
+    ]
+   ],
+   "next": "Capital grants (up to $250,000) due Mar 4, 2027",
+   "d": "Facility operating costs for spaces dedicated to artists and arts/cultural organizations in Vancouver.",
+   "el": "Vancouver non-profit cultural societies, co-ops, charities, host Nations",
+   "u": "https://vancouver.ca/people-programs/cultural-spaces-grant-program.aspx"
+  },
+  {
+   "n": "Black Ideas Grant (B.I.G.) 4.0",
+   "f": "Foundation for Black Communities",
+   "lv": "Foundation",
+   "r": "Canada",
+   "fo": [
+    "Capacity building",
+    "Projects"
+   ],
+   "max": 30000,
+   "amt": "Core stream up to $30,000 (one-year, flexible)",
+   "w": [
+    [
+     null,
+     "2026-10-20"
+    ]
+   ],
+   "next": "Watch for B.I.G. 5.0",
+   "d": "Flexible funding for Black-led, Black-mandated and Black-serving (B3) organizations and groups across Canada, from an $8M pool.",
+   "el": "B3 charities, non-profits and groups",
+   "u": "https://forblack.ca/"
+  },
+  {
+   "n": "Inspirit Foundation Grants",
+   "f": "Inspirit Foundation",
+   "lv": "Foundation",
+   "r": "Canada",
+   "fo": [
+    "Projects",
+    "Anti-racism"
+   ],
+   "max": null,
+   "amt": "Varies (research, project, organizational)",
+   "w": [],
+   "next": "Check the apply page for current calls",
+   "d": "Organizations deeply shaped by Indigenous, Muslim, Black and racialized voices working on media, narrative and systems change.",
+   "el": "Canadian organizations (see priority areas)",
+   "u": "https://inspiritfoundation.org/apply/"
+  },
+  {
+   "n": "Calgary Foundation: Community Grants",
+   "f": "Calgary Foundation",
+   "c": "Calgary",
+   "lv": "Foundation",
+   "r": "AB",
+   "fo": [
+    "Community grants",
+    "Projects",
+    "Capacity building"
+   ],
+   "max": 200000,
+   "amt": "$10,000–$200,000 (avg. ~$75,000)",
+   "w": [
+    [
+     null,
+     "2026-09-01"
+    ]
+   ],
+   "next": "Spring 2027 intake expected",
+   "d": "Projects addressing belonging and wellbeing, cost of living, safety and more; encourages programs led by and for equity-deserving communities.",
+   "el": "Registered charities / qualified donees in Calgary region",
+   "u": "https://calgaryfoundation.org"
+  },
+  {
+   "n": "Edmonton Community Foundation: Community Grants",
+   "f": "Edmonton Community Foundation",
+   "c": "Edmonton",
+   "lv": "Foundation",
+   "r": "AB",
+   "fo": [
+    "Community grants",
+    "Projects",
+    "Capacity building"
+   ],
+   "max": 50000,
+   "amt": "Up to $50,000 (first-time in 5 yrs)",
+   "w": [
+    [
+     null,
+     "2026-09-11"
+    ]
+   ],
+   "next": "Spring 2027 intake expected",
+   "d": "Broad community projects across the Greater Edmonton Area.",
+   "el": "Registered charities / qualified donees",
+   "u": "https://ecf.ca/grants/community-grants/"
+  },
+  {
+   "n": "Winnipeg Foundation: Community Grants",
+   "f": "The Winnipeg Foundation",
+   "lv": "Foundation",
+   "r": "MB",
+   "fo": [
+    "Community grants",
+    "Projects"
+   ],
+   "max": 100000,
+   "amt": "Up to $100,000",
+   "w": [
+    [
+     null,
+     "2026-10-30"
+    ]
+   ],
+   "next": "Spring 2027 intake expected (2026: Mar 27)",
+   "d": "The Foundation's main program for community projects benefiting Winnipeggers. Outside Winnipeg, see Endow Manitoba's local foundations.",
+   "el": "Registered charities / qualified donees",
+   "u": "https://www.wpgfdn.org/grants"
+  },
+  {
+   "n": "Community Investment Operating Grant (CIOG)",
+   "f": "City of Edmonton",
+   "c": "Edmonton",
+   "lv": "Municipal",
+   "r": "AB",
+   "fo": [
+    "Operating"
+   ],
+   "max": null,
+   "amt": "Formula-based operating assistance",
+   "w": [],
+   "next": "Annual deadline mid-January (2026: Jan 14, 1 p.m.); expect ~Jan 2027; register in the Community Investment Grant Portal now",
+   "d": "Operating assistance for Edmonton non-profits working on social inclusion and equitable access to social services, multicultural programming, and recreation/amateur sport. Groups may receive only one City-funded operating grant a year (including EAC and Edmonton Heritage Council operating grants).",
+   "el": "Edmonton non-profits registered 1+ year; reserves under 2 years of operating costs",
+   "u": "https://www.edmonton.ca/programs_services/funding_grants/community-investment-operating-grant"
+  },
+  {
+   "n": "Operating Grant for Indigenous-led Organizations",
+   "f": "City of Edmonton",
+   "c": "Edmonton",
+   "lv": "Municipal",
+   "r": "AB",
+   "fo": [
+    "Operating"
+   ],
+   "max": 50000,
+   "amt": "Up to $50,000 (or a share of operating expenses)",
+   "w": [],
+   "next": "Check with the Grants Office (grants@edmonton.ca, 780-496-4933) for the next intake",
+   "d": "Operating support for Indigenous-led organizations in Edmonton; award based on eligible operating expenses and number of applications.",
+   "el": "Indigenous-led Edmonton non-profits",
+   "u": "https://edmonton.ca/sites/default/files/public-files/Operating-Grant-for-Indigenous-led-Organizations-Program-Guide-2025.pdf"
+  },
+  {
+   "n": "Indigenous Relations Office Sponsorships",
+   "f": "City of Edmonton",
+   "c": "Edmonton",
+   "lv": "Municipal",
+   "r": "AB",
+   "fo": [
+    "Events & festivals"
+   ],
+   "max": null,
+   "amt": "Varies",
+   "w": [],
+   "next": "Intake 1 (Jan–Jun events) expected to open ~December 2026 (last cycle: Dec 8, 2025–Feb 18, 2026, first come, first served)",
+   "d": "Sponsorship for Indigenous events and gatherings in the greater Edmonton area, aligned with the City's Indigenous Framework and TRC response plans. Applied through the Community Investment Grant Portal.",
+   "el": "Organizations holding Indigenous events in greater Edmonton",
+   "u": "https://www.edmonton.ca/programs_services/funding_grants/indigenous-relations-office-sponsorships"
+  },
+  {
+   "n": "Neighbourhood Micro-Grant",
+   "f": "City of Edmonton",
+   "c": "Edmonton",
+   "lv": "Municipal",
+   "r": "AB",
+   "fo": [
+    "Events & festivals"
+   ],
+   "max": 500,
+   "amt": "Up to $500",
+   "w": [],
+   "next": "Usually three intakes a year (spring, summer, fall); check the page",
+   "d": "Small block-level projects and events. Residents in revitalization neighbourhoods use the Revitalization Micro-Grant instead.",
+   "el": "Edmonton residents and local groups",
+   "u": "https://www.edmonton.ca/programs_services/funding_grants/micro-neighbourhood-grant"
+  },
+  {
+   "n": "Heritage Gathering Grant (HCIP)",
+   "f": "Edmonton Heritage Council",
+   "c": "Edmonton",
+   "lv": "Foundation",
+   "r": "AB",
+   "fo": [
+    "Events & festivals",
+    "Arts & heritage"
+   ],
+   "max": 2500,
+   "amt": "Up to $2,500",
+   "w": [
+    [
+     "rolling",
+     "2026-12-31"
+    ]
+   ],
+   "next": "",
+   "d": "New grant for community-led heritage gatherings and events that celebrate cultural heritage in Edmonton; well suited to ethnocultural community celebrations, storytelling and educational events.",
+   "el": "Non-profits, charities and individuals in Edmonton",
+   "u": "https://edmontonheritage.ca/grants/hcip"
+  },
+  {
+   "n": "HCIP Operational Grant",
+   "f": "Edmonton Heritage Council",
+   "c": "Edmonton",
+   "lv": "Foundation",
+   "r": "AB",
+   "fo": [
+    "Operating",
+    "Arts & heritage"
+   ],
+   "max": null,
+   "amt": "Up to 25% of eligible expenses",
+   "w": [
+    [
+     null,
+     "2026-08-25"
+    ]
+   ],
+   "next": "2027 intake details not yet posted",
+   "d": "Operating funding for Edmonton heritage organizations that research, preserve, interpret and share local heritage, including ethnocultural heritage societies.",
+   "el": "Edmonton heritage non-profits with GAAP financial statements",
+   "u": "https://edmontonheritage.ca/grants/hcip"
+  },
+  {
+   "n": "HCIP Heritage Project & Research Grants",
+   "f": "Edmonton Heritage Council",
+   "c": "Edmonton",
+   "lv": "Foundation",
+   "r": "AB",
+   "fo": [
+    "Projects",
+    "Arts & heritage"
+   ],
+   "max": 10000,
+   "amt": "Research & Development up to $10,000; Heritage Project grants larger",
+   "w": [],
+   "next": "2026 windows: R&D to Mar 9; Heritage Project Jul 13–Sep 9; expect similar timing in 2027",
+   "d": "Heritage projects that tell Edmonton stories, especially voices less heard; oral histories, exhibits, publications, community archives. FIRE grants separately support Indigenous resurgence projects.",
+   "el": "Edmonton non-profits, charities and individuals",
+   "u": "https://edmontonheritage.ca/grants/hcip"
+  },
+  {
+   "n": "Edmonton Arts Council: Equity & Access in the Arts",
+   "f": "Edmonton Arts Council",
+   "c": "Edmonton",
+   "lv": "Foundation",
+   "r": "AB",
+   "fo": [
+    "Arts & heritage",
+    "Projects"
+   ],
+   "max": null,
+   "amt": "Varies by stream",
+   "w": [],
+   "next": "Annual spring deadline (2026 cycle closed); expect spring 2027",
+   "d": "Three streams for Indigenous and equity-deserving artists and collectives, including artists facing barriers related to immigration status; useful for cultural performers and artist collectives within ethnocultural communities.",
+   "el": "Edmonton-based individuals and collectives (citizen, PR or open work permit)",
+   "u": "https://www.edmontonarts.ca/calls-funding/funding/equity-and-access-in-the-arts"
+  },
+  {
+   "n": "Community Facility Enhancement Program (CFEP) Small",
+   "f": "Government of Alberta",
+   "lv": "Provincial",
+   "r": "AB",
+   "fo": [
+    "Capital"
+   ],
+   "max": 125000,
+   "amt": "Up to $125,000 (matching)",
+   "w": [
+    [
+     null,
+     "2027-01-15"
+    ],
+    [
+     null,
+     "2027-05-15"
+    ],
+    [
+     null,
+     "2027-09-15"
+    ]
+   ],
+   "next": "",
+   "d": "Upgrade, expand, buy or build public-use cultural, heritage, recreation and community facilities; e.g. a cultural association's hall or centre. CFEP Large ($125,001–$1M, 50% match) takes continuous intake. Register GATE users at least 10 business days before the deadline.",
+   "el": "Alberta non-profits/charities operating 1+ year",
+   "u": "https://www.alberta.ca/community-facility-enhancement-program-small"
+  },
+  {
+   "n": "Edmonton Oilers Community Foundation: Community Grants",
+   "f": "Edmonton Oilers Community Foundation",
+   "c": "Edmonton",
+   "lv": "Foundation",
+   "r": "AB",
+   "fo": [
+    "Community grants",
+    "Sponsorship & donations"
+   ],
+   "max": 25000,
+   "amt": "Up to $25,000 per season (one application per season)",
+   "w": [
+    [
+     "2026-09-01",
+     "2026-12-31"
+    ]
+   ],
+   "next": "",
+   "d": "Single-year grants for organizations aligned with EOCF's investment focus or responding to an emergent community need in central and northern Alberta. Third-party fundraising events are not eligible.",
+   "el": "Registered charities / qualified donees",
+   "u": "https://www.nhl.com/oilers/eocf/grants"
+  },
+  {
+   "n": "EPCOR Heart + Soul Program: Sponsorships & Donations",
+   "f": "EPCOR",
+   "c": "Edmonton",
+   "lv": "Corporate",
+   "r": "AB",
+   "fo": [
+    "Sponsorship & donations",
+    "Events & festivals"
+   ],
+   "max": null,
+   "amt": "Varies (sponsorships, donations, multi-year partnerships)",
+   "w": [
+    [
+     "rolling",
+     "2099-12-31"
+    ]
+   ],
+   "next": "",
+   "d": "Edmonton-headquartered utility funding sponsorships, charitable donations and multi-year partnerships in the communities it serves. Apply online any time; requests are reviewed twice a year after each submission deadline (outside Edmonton, once a year after Oct 15). Does not fund capital campaigns, infrastructure or general operating costs.",
+   "el": "Charities, non-profits, Indigenous communities in EPCOR service areas",
+   "u": "https://www.epcor.com/ca/en/sustainability-community/community-investment/apply-for-funding.html"
+  },
+  {
+   "n": "Capital Power: Community Investment & Sponsorship Requests",
+   "f": "Capital Power",
+   "c": "Edmonton",
+   "lv": "Corporate",
+   "r": "AB",
+   "fo": [
+    "Sponsorship & donations"
+   ],
+   "max": null,
+   "amt": "Varies",
+   "w": [
+    [
+     "rolling",
+     "2099-12-31"
+    ]
+   ],
+   "next": "",
+   "d": "Edmonton-headquartered power producer accepting online requests for sponsorship of events, projects or long-term initiatives in its focus areas (Wellbeing, Culture & Equity, Climate Action). Does not normally fund yearbook/program advertising or mass-mailed requests.",
+   "el": "Non-profits and charities in Capital Power communities",
+   "u": "https://www.capitalpower.com/sustainability/community/request-for-support"
+  },
+  {
+   "n": "Servus Credit Union: Sponsorships & Donations",
+   "f": "Servus Credit Union",
+   "lv": "Corporate",
+   "r": "AB",
+   "fo": [
+    "Sponsorship & donations",
+    "Events & festivals"
+   ],
+   "max": null,
+   "amt": "Varies (most budget decided by local branches)",
+   "w": [
+    [
+     "rolling",
+     "2099-12-31"
+    ]
+   ],
+   "next": "",
+   "d": "Alberta credit union; about 60% of its community investment budget is allocated by local branches, so approach your local Edmonton branch. Arts & culture and community heritage are listed focus areas. Reviews take up to 8 weeks.",
+   "el": "Registered organizations in Servus communities (not for-profits)",
+   "u": "https://servus.ca/Community/Partnership-funding"
+  },
+  {
+   "n": "ATB Financial: Sponsorships & ATB Community Foundation Donations",
+   "f": "ATB Financial",
+   "lv": "Corporate",
+   "r": "AB",
+   "fo": [
+    "Sponsorship & donations",
+    "Events & festivals"
+   ],
+   "max": null,
+   "amt": "Varies",
+   "w": [
+    [
+     "rolling",
+     "2099-12-31"
+    ]
+   ],
+   "next": "",
+   "d": "Sponsorships for festivals and community events across Alberta (ATB's fiscal year runs Apr 1–Mar 31; apply well ahead). Donations through the ATB Community Foundation focus on mental health, financial empowerment and children/youth innovation; committees review every two months, with decisions within ~90 days. Donations don't fund fundraising events or capital projects.",
+   "el": "Alberta non-profits/charities; religious events ineligible unless non-denominational community services",
+   "u": "https://www.atb.com/company/community/sponsorship/sponsorship-guidelines/"
+  },
+  {
+   "n": "TD Corporate Donations & Sponsorships (TD Ready Commitment)",
+   "f": "TD Bank Group",
+   "lv": "Corporate",
+   "r": "Canada",
+   "fo": [
+    "Sponsorship & donations",
+    "Community grants"
+   ],
+   "max": null,
+   "amt": "Normally ≤20% of an organization's operating budget",
+   "w": [],
+   "next": "Four application deadlines a year; check the funding page for the next one",
+   "d": "Community projects and events aligned with Financial Security, Vibrant Planet, Connected Communities or Better Health. TD has specifically funded newcomer settlement and integration organizations. No general fundraising drives or capital campaigns.",
+   "el": "Canadian non-profits and charities",
+   "u": "https://www.td.com/ca/en/about-td/ready-commitment/funding"
+  },
+  {
+   "n": "TELUS Friendly Future Foundation: Edmonton & Northern Alberta Community Board",
+   "f": "TELUS Friendly Future Foundation",
+   "lv": "Corporate",
+   "r": "AB",
+   "fo": [
+    "Community grants",
+    "Youth"
+   ],
+   "max": 20000,
+   "amt": "Up to $20,000 (single-year; up to 3 consecutive years)",
+   "w": [],
+   "next": "Annual intake usually opens early January (2026: opened Jan 5); expect January 2027",
+   "d": "Grassroots youth (up to age 29) health and education programs, with priority for programs using technology. The TELUS Indigenous Communities Fund ($5,000–$25,000) runs spring and fall windows for Indigenous-led programs.",
+   "el": "Registered charities / qualified donees",
+   "u": "https://www.telus.com/en/social-impact/giving-back/community-grants"
+  },
+  {
+   "n": "Enbridge Fueling Futures",
+   "f": "Enbridge",
+   "lv": "Corporate",
+   "r": "AB",
+   "fo": [
+    "Community grants",
+    "Sponsorship & donations"
+   ],
+   "max": null,
+   "amt": "Varies",
+   "w": [
+    [
+     null,
+     "2027-03-31"
+    ],
+    [
+     null,
+     "2027-09-30"
+    ]
+   ],
+   "next": "",
+   "d": "Community investment and sponsorship including 'celebrating culture and community' and honouring Indigenous peoples and cultures, for groups near Enbridge operations or pipeline rights-of-way. Enbridge's application guide references March 31 and September 30 review deadlines; confirm on the site.",
+   "el": "Non-profits near Enbridge operations",
+   "u": "https://www.enbridge.com/About-Us/Our-Values/Community-investment"
+  },
+  {
+   "n": "United Way of the Alberta Capital Region: Agency Funding",
+   "f": "United Way of the Alberta Capital Region",
+   "c": "Edmonton",
+   "lv": "Foundation",
+   "r": "AB",
+   "fo": [
+    "Community grants",
+    "Operating"
+   ],
+   "max": 150000,
+   "amt": "Up to $150,000",
+   "w": [],
+   "next": "Not currently open; check United Way for the next call",
+   "d": "Funding for front-line agencies working on mental well-being, educational success and financial security in the Edmonton region; relevant to ethnocultural groups delivering settlement and family supports.",
+   "el": "Non-profit social service agencies in the Alberta Capital Region",
+   "u": "https://www.myunitedway.ca"
+  },
+  {
+   "n": "AGLC Charitable Gaming Licences (casinos, raffles, bingo)",
+   "f": "Alberta Gaming, Liquor & Cannabis",
+   "lv": "Provincial",
+   "r": "AB",
+   "fo": [
+    "Sponsorship & donations",
+    "Operating"
+   ],
+   "max": null,
+   "amt": "Share of casino proceeds; raffle revenue",
+   "w": [
+    [
+     "rolling",
+     "2099-12-31"
+    ]
+   ],
+   "next": "",
+   "d": "A major fundraising source for Edmonton cultural associations: eligible charitable groups volunteer at a casino event (usually two days) and share proceeds, or run licensed raffles. Proceeds must go to AGLC-approved charitable uses. Start with the free Eligibility for Gaming Licence application.",
+   "el": "Charitable or religious groups meeting AGLC policy",
+   "u": "https://aglc.ca/gaming/licences/casino"
+  },
+  {
+   "n": "Canada Council for the Arts: Core Grants",
+   "f": "Canada Council for the Arts",
+   "lv": "Federal",
+   "r": "Canada",
+   "fo": [
+    "Operating",
+    "Arts & heritage"
+   ],
+   "max": null,
+   "amt": "Multi-year; median core grant ~$75,000",
+   "w": [],
+   "next": "Current cycle covers 2026–2029 (deadline was Apr 2, 2025); requires a history of Canada Council project funding",
+   "d": "Recurring multi-year operating funding for arts organizations (Engage and Sustain, Explore and Create; Artist-Driven Organizations). Composite grants are a lighter alternative for groups with past project grants.",
+   "el": "Incorporated non-profit arts organizations with prior Canada Council funding",
+   "u": "https://canadacouncil.ca/funding/grants/core-grants-for-organizations"
+  },
+  {
+   "n": "Multicultural Initiatives Fund: Annual (operating)",
+   "f": "SaskCulture",
+   "lv": "Provincial",
+   "r": "SK",
+   "fo": [
+    "Operating"
+   ],
+   "max": null,
+   "amt": "Varies (two-year commitments)",
+   "w": [],
+   "next": "Two-year cycle; deadline has historically been Jan 31; new applicants must consult SaskCulture first",
+   "d": "Operational funding for community-based ethnocultural, multicultural, First Nations and Métis organizations, with priority for those reaching Indigenous peoples, youth, and northern or rural communities.",
+   "el": "Saskatchewan ethnocultural/multicultural non-profits (consultation required)",
+   "u": "https://www.saskculture.ca/programs/funding-programs/grants/multicultural-initiatives-fund-annual-funding"
+  },
+  {
+   "n": "AFA: Community Support Organizations Operating",
+   "f": "Alberta Foundation for the Arts",
+   "lv": "Provincial",
+   "r": "AB",
+   "fo": [
+    "Operating",
+    "Arts & heritage"
+   ],
+   "max": null,
+   "amt": "Annual operating (set by AFA budget)",
+   "w": [
+    [
+     null,
+     "2027-03-01"
+    ]
+   ],
+   "next": "",
+   "d": "Annual funding for non-profits delivering arts programs and services, including in communities with limited arts access. First-time applicants must contact AFA at least 3 months before the deadline.",
+   "el": "Alberta non-profit community organizations with arts programming",
+   "u": "https://affta.ab.ca/funding/find-funding/community-support-organizations-operating-funding"
+  },
+  {
+   "n": "AFA: Community Focused Arts Organizations Operating",
+   "f": "Alberta Foundation for the Arts",
+   "lv": "Provincial",
+   "r": "AB",
+   "fo": [
+    "Operating",
+    "Arts & heritage"
+   ],
+   "max": null,
+   "amt": "Annual; requests calculated to a max of ~12% of revenue",
+   "w": [
+    [
+     null,
+     "2027-05-03"
+    ]
+   ],
+   "next": "",
+   "d": "Annual operating funding for arts-based organizations with regular, recurring public programming and some paid staff; e.g. established cultural dance, music or arts societies.",
+   "el": "Alberta arts-based non-profits (not municipalities)",
+   "u": "https://www.affta.ab.ca/funding/find-funding/community-focused-arts-organizations"
+  },
+  {
+   "n": "BC Arts Council: Operating Assistance (Community Arts Orgs & Professional Festivals)",
+   "f": "BC Arts Council",
+   "lv": "Provincial",
+   "r": "BC",
+   "fo": [
+    "Operating",
+    "Events & festivals",
+    "Arts & heritage"
+   ],
+   "max": null,
+   "amt": "Community Arts: min. $10,000 basic request + up to $5,000 local match",
+   "w": [
+    [
+     null,
+     "2026-10-08"
+    ]
+   ],
+   "next": "Next intake expected fall 2027",
+   "d": "General operating support for established community-engaged arts organizations, and for professional non-profits that produce a major recurring festival.",
+   "el": "Established B.C. arts and festival non-profits (1+ year operating)",
+   "u": "https://www.bcartscouncil.ca/program/operating-assistance-community-arts-organizations/"
+  },
+  {
+   "n": "Manitoba Arts Council: Support: Community Impact",
+   "f": "Manitoba Arts Council",
+   "lv": "Provincial",
+   "r": "MB",
+   "fo": [
+    "Operating",
+    "Arts & heritage"
+   ],
+   "max": 15000,
+   "amt": "Up to $15,000 or 50% of annual revenue (whichever is less)",
+   "w": [
+    [
+     null,
+     "2027-05-15"
+    ]
+   ],
+   "next": "",
+   "d": "Annual grant for community arts and cultural organizations delivering ongoing programming. MAC also administers Cultural Operating and Community Arts Council operating programs.",
+   "el": "Manitoba community arts/cultural non-profits",
+   "u": "https://artscouncil.mb.ca/grants/support-community-impact/"
+  },
+  {
+   "n": "Edmonton Arts Council: Operating & Programming Investments",
+   "f": "Edmonton Arts Council",
+   "c": "Edmonton",
+   "lv": "Municipal",
+   "r": "AB",
+   "fo": [
+    "Operating",
+    "Events & festivals",
+    "Arts & heritage"
+   ],
+   "max": null,
+   "amt": "Varies (based on funding history)",
+   "w": [
+    [
+     null,
+     "2026-11-02"
+    ]
+   ],
+   "next": "Next deadline expected fall 2027",
+   "d": "Annual operating and programming funding for Edmonton arts and festival organizations, including cultural festivals.",
+   "el": "Edmonton arts or festival non-profits registered 1+ year",
+   "u": "https://www.edmontonarts.ca/calls-funding/funding/operating-and-programming-investments"
+  },
+  {
+   "n": "Calgary Arts Development: Operating Grants",
+   "f": "Calgary Arts Development",
+   "c": "Calgary",
+   "lv": "Municipal",
+   "r": "AB",
+   "fo": [
+    "Operating",
+    "Arts & heritage"
+   ],
+   "max": null,
+   "amt": "Unrestricted multi-year operating",
+   "w": [
+    [
+     null,
+     "2026-10-07"
+    ]
+   ],
+   "next": "Professional orgs cycle now covers 2027–2030; Community Arts Orgs cycle covers 2026–2027",
+   "d": "Unrestricted operating funding for Calgary non-profit arts organizations; professional and community streams on separate cycles.",
+   "el": "Calgary non-profit arts organizations",
+   "u": "https://calgaryartsdevelopment.com/?p=121589"
+  },
+  {
+   "n": "Winnipeg Arts Council: Multi-Year Programs for Arts Organizations",
+   "f": "Winnipeg Arts Council",
+   "lv": "Municipal",
+   "r": "MB",
+   "fo": [
+    "Operating",
+    "Arts & heritage"
+   ],
+   "max": null,
+   "amt": "Multi-year operating (by invitation)",
+   "w": [
+    [
+     "2026-11-02",
+     "2027-02-02"
+    ]
+   ],
+   "next": "",
+   "d": "Multi-year support for established Winnipeg arts organizations. Invitation required; contact WAC to confirm eligibility.",
+   "el": "Invited Winnipeg arts organizations",
+   "u": "https://winnipegarts.ca"
+  },
+  {
+   "n": "Ottawa: Major Arts & Cultural Festivals Program",
+   "f": "City of Ottawa",
+   "lv": "Municipal",
+   "r": "ON",
+   "fo": [
+    "Operating",
+    "Events & festivals"
+   ],
+   "max": null,
+   "amt": "Annual or 3-year operating",
+   "w": [],
+   "next": "One deadline a year, typically late November; confirm on the program page",
+   "d": "Operating funding for major arts festivals and cultural festivals representing local, culturally diverse or Indigenous communities (2+ consecutive days). Entry must be approved by the Cultural Funding Support Unit.",
+   "el": "Ottawa festival non-profits",
+   "u": "https://ottawa.ca/en/node/1014246"
+  },
+  {
+   "n": "Experience Ontario 2027",
+   "f": "Government of Ontario",
+   "lv": "Provincial",
+   "r": "ON",
+   "fo": [
+    "Events & festivals"
+   ],
+   "max": 125000,
+   "amt": "Up to 50% of costs: Tier 1 $125,000 · Tier 2 $55,000 · Tier 3 $20,000",
+   "w": [],
+   "next": "Expected late Nov–Dec 2026 (2026 intake: Nov 20–Dec 16, 2025); email experienceontario@ontario.ca to join the contact list",
+   "d": "Festivals and events with tourism impact. A Capacity Building stream supports first-time festivals; Established Events stream for recurring ones. Apply via Transfer Payment Ontario.",
+   "el": "Ontario non-profits, municipalities, Indigenous organizations",
+   "u": "https://forms.mgcs.gov.on.ca/dataset/8b8e8f60-9d1c-4ad7-843a-144ef54a105c/resource/f7351091-7cba-4d7a-93e2-dbc9e5cdb146/download/eo26_application_guidlines_2025_11_21_final.pdf"
+  },
+  {
+   "n": "Travel Alberta: Events and Festivals Fund",
+   "f": "Travel Alberta",
+   "lv": "Provincial",
+   "r": "AB",
+   "fo": [
+    "Events & festivals"
+   ],
+   "max": null,
+   "amt": "Varies; 25% minimum applicant contribution",
+   "w": [],
+   "next": "2027–28 investment year closed; watch for the 2028–29 intake",
+   "d": "Tourism-driving events and festivals, with priority for shoulder and winter seasons.",
+   "el": "Alberta event and festival organizers",
+   "u": "https://industry.travelalberta.com/programs-and-services/apply-for-grants/events-and-festivals-fund"
+  },
+  {
+   "n": "BC Arts Council: Community Arts Festivals",
+   "f": "BC Arts Council",
+   "lv": "Provincial",
+   "r": "BC",
+   "fo": [
+    "Events & festivals",
+    "Arts & heritage"
+   ],
+   "max": 6000,
+   "amt": "Up to $6,000",
+   "w": [],
+   "next": "Check BC Arts Council festivals page for the next intake",
+   "d": "Local community arts festivals led by community arts organizations, Indigenous organizations or Indigenous governments. Professional Arts Festivals project stream (up to $25,000) closed Nov 12, 2026.",
+   "el": "B.C. community arts and Indigenous organizations",
+   "u": "https://www.bcartscouncil.ca/discipline/festivals/"
+  },
+  {
+   "n": "Festival & Community Event Development Program",
+   "f": "Nova Scotia; Communities, Culture, Tourism & Heritage",
+   "lv": "Provincial",
+   "r": "NS",
+   "fo": [
+    "Events & festivals"
+   ],
+   "max": 10000,
+   "amt": "Up to $10,000 (2024 average ~$3,200)",
+   "w": [],
+   "next": "Expected late February 2027 (2026 deadline: Feb 27)",
+   "d": "Helps sustain, grow or improve unique community festivals and events in Nova Scotia.",
+   "el": "N.S. non-profits, municipalities, Mi'kmaw communities",
+   "u": "https://novascotia.ca/apply-funding-help-sustain-grow-or-improve-community-festivals-and-events-festival-and-community-event-development-program"
+  },
+  {
+   "n": "Halifax Events Grants: New (Emerging) & Distinguished Events",
+   "f": "Halifax Regional Municipality",
+   "lv": "Municipal",
+   "r": "NS",
+   "fo": [
+    "Events & festivals"
+   ],
+   "max": null,
+   "amt": "Varies",
+   "w": [
+    [
+     "2026-11-01",
+     "2026-11-30"
+    ],
+    [
+     "2027-05-01",
+     "2027-05-30"
+    ]
+   ],
+   "next": "",
+   "d": "Marketing Levy Special Event Reserve grants for events April 1, 2027–March 31, 2028. Regional Special Events 'Cultural Events & Showcases' runs on a 3-year cycle; next intake Nov 1, 2027.",
+   "el": "Non-profits hosting events in HRM",
+   "u": "https://www.halifax.ca/parks-recreation/events/grants"
+  },
+  {
+   "n": "Festivals & Events Micro Grant",
+   "f": "City of Edmonton",
+   "c": "Edmonton",
+   "lv": "Municipal",
+   "r": "AB",
+   "fo": [
+    "Events & festivals"
+   ],
+   "max": 10000,
+   "amt": "Up to $10,000 per organization per year",
+   "w": [],
+   "next": "One intake per year; check page for 2027 dates",
+   "d": "Outdoor festivals and events in Edmonton; prioritizes cultural or multicultural events. Can apply retroactively within the same calendar year.",
+   "el": "Edmonton organizations (not if funded by Neighbourhood Connections for same event)",
+   "u": "https://www.edmonton.ca/programs_services/funding_grants/festivals-events-micro-grant-program"
+  },
+  {
+   "n": "WinterCity Festivals & Events Grant",
+   "f": "City of Edmonton",
+   "c": "Edmonton",
+   "lv": "Municipal",
+   "r": "AB",
+   "fo": [
+    "Events & festivals"
+   ],
+   "max": null,
+   "amt": "Minimum $500; varies",
+   "w": [
+    [
+     null,
+     "2026-10-30"
+    ]
+   ],
+   "next": "Decisions within 8 weeks; next intake expected fall 2027",
+   "d": "Outdoor winter events Jan 1–Mar 31 and Nov 15–Dec 31, 2027.",
+   "el": "Edmonton event organizers",
+   "u": "https://www.edmonton.ca/programs_services/funding_grants/wintercity-festivals-events-grant-program"
+  },
+  {
+   "n": "Arts & Culture Microgrant",
+   "f": "City of Calgary",
+   "c": "Calgary",
+   "lv": "Municipal",
+   "r": "AB",
+   "fo": [
+    "Events & festivals",
+    "Arts & heritage"
+   ],
+   "max": 30000,
+   "amt": "Tier 1 up to $5,000 · Tier 2 up to $30,000 (50% of costs)",
+   "w": [],
+   "next": "2026 intakes closed; 2027 program expected early 2027",
+   "d": "New arts and culture initiatives, or recurring ones with a significant new element (e.g. a powwow or cultural festival adding programming).",
+   "el": "Calgary non-profits, charities, community associations, BIAs",
+   "u": "https://www.calgary.ca/arts-culture/microgrant.html"
+  },
+  {
+   "n": "Festivals & Events Subsidy Program (FESP)",
+   "f": "City of Calgary",
+   "c": "Calgary",
+   "lv": "Municipal",
+   "r": "AB",
+   "fo": [
+    "Events & festivals"
+   ],
+   "max": null,
+   "amt": "Covers City service costs: 90% returning / 50% new events",
+   "w": [],
+   "next": "Expressions of interest closed Mar 25, 2026 for Sept 2026–Sept 2027 events; next EOI expected spring 2027",
+   "d": "Subsidizes City services (permits, road closures, pay-duty police) on your City bill for local festivals and events.",
+   "el": "Calgary festival and event organizers",
+   "u": "https://www.calgary.ca/arts-culture/festivals/festivals-and-events-subsidy-program.html"
+  },
+  {
+   "n": "Winnipeg Arts Council: Project Grant (Organizations & Collectives)",
+   "f": "Winnipeg Arts Council",
+   "lv": "Municipal",
+   "r": "MB",
+   "fo": [
+    "Events & festivals",
+    "Arts & heritage",
+    "Projects"
+   ],
+   "max": 10000,
+   "amt": "Up to $10,000",
+   "w": [
+    [
+     "2026-11-02",
+     "2027-02-02"
+    ]
+   ],
+   "next": "",
+   "d": "Arts projects with artistic merit and civic impact, including festivals and presentations.",
+   "el": "Winnipeg arts organizations and collectives (not WAC multi-year recipients)",
+   "u": "https://winnipegarts.ca"
+  },
+  {
+   "n": "Soutien aux festivals et aux événements culturels",
+   "f": "Ville de Montréal",
+   "lv": "Municipal",
+   "r": "QC",
+   "fo": [
+    "Events & festivals",
+    "Arts & heritage"
+   ],
+   "max": null,
+   "amt": "Varies (3 volets)",
+   "w": [],
+   "next": "2027 program posted; check the page for the deadline",
+   "d": "Artistic festivals and cultural events at borough, city, metropolitan or international scale. New downtown events and film/TV festivals not eligible in 2027.",
+   "el": "Montréal-based non-profit cultural or community organizations",
+   "u": "https://montreal.ca/programmes/programme-de-soutien-aux-festivals-et-aux-evenements-culturels"
+  }
+ ]
+}
